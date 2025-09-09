@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QtFtOy5F1psfW653IXqV0veRq1K0UdTp0KXS1LWwqi4=",
+  "Hash": "Z5/odglef9v9j9i+N9emutSCuSCNk+QJXGwRhflTUb4=",
   "Source": "FreteJa",
   "BasePath": "_content/FreteJa",
   "Mode": "Default",
@@ -1130,12 +1130,12 @@
       "OriginalItemSpec": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-fr7q2aak1r.gz",
+      "Identity": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-uw4fqhct7f.gz",
       "SourceId": "FreteJa",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/FreteJa",
-      "RelativePath": "js/site#[.{fingerprint=fr7q2aak1r}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=uw4fqhct7f}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ie4dqg4phh",
-      "Integrity": "inFTEOE9MyZMh8t2Nyi+Unmmop20gkBlmKNZrCHY4qY=",
+      "Fingerprint": "y7v7oamm5v",
+      "Integrity": "MgbTT4QslMDR2dryiS0rJO0Yp4W2pzJJa8k4ilyFju4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\wwwroot\\js\\site.js"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fr7q2aak1r",
-      "Integrity": "y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM=",
+      "Fingerprint": "uw4fqhct7f",
+      "Integrity": "YvtQDi930NCkljFIKEvzXoCmWedj7do/8QZFf7c9ALk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -3920,13 +3920,13 @@
       ]
     },
     {
-      "Route": "js/site.fr7q2aak1r.js",
-      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-fr7q2aak1r.gz",
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-uw4fqhct7f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005376344086"
+          "Quality": "0.001557632399"
         }
       ],
       "ResponseHeaders": [
@@ -3936,19 +3936,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "185"
+          "Value": "641"
         },
         {
           "Name": "ETag",
-          "Value": "\"inFTEOE9MyZMh8t2Nyi+Unmmop20gkBlmKNZrCHY4qY=\""
+          "Value": "\"MgbTT4QslMDR2dryiS0rJO0Yp4W2pzJJa8k4ilyFju4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 02 Sep 2025 18:18:18 GMT"
+          "Value": "Tue, 09 Sep 2025 18:13:09 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3964,26 +3964,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM=\""
+          "Value": "W/\"YvtQDi930NCkljFIKEvzXoCmWedj7do/8QZFf7c9ALk=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "fr7q2aak1r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM="
+          "Value": "sha256-YvtQDi930NCkljFIKEvzXoCmWedj7do/8QZFf7c9ALk="
         }
       ]
     },
     {
-      "Route": "js/site.fr7q2aak1r.js",
+      "Route": "js/site.js",
       "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3993,7 +3985,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "227"
+          "Value": "1394"
         },
         {
           "Name": "Content-Type",
@@ -4001,11 +3993,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM=\""
+          "Value": "\"YvtQDi930NCkljFIKEvzXoCmWedj7do/8QZFf7c9ALk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 02 Sep 2025 18:18:18 GMT"
+          "Value": "Tue, 09 Sep 2025 18:13:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YvtQDi930NCkljFIKEvzXoCmWedj7do/8QZFf7c9ALk="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-uw4fqhct7f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MgbTT4QslMDR2dryiS0rJO0Yp4W2pzJJa8k4ilyFju4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Sep 2025 18:13:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MgbTT4QslMDR2dryiS0rJO0Yp4W2pzJJa8k4ilyFju4="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.uw4fqhct7f.js",
+      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-uw4fqhct7f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001557632399"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "641"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MgbTT4QslMDR2dryiS0rJO0Yp4W2pzJJa8k4ilyFju4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Sep 2025 18:13:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YvtQDi930NCkljFIKEvzXoCmWedj7do/8QZFf7c9ALk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uw4fqhct7f"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YvtQDi930NCkljFIKEvzXoCmWedj7do/8QZFf7c9ALk="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.uw4fqhct7f.js",
+      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YvtQDi930NCkljFIKEvzXoCmWedj7do/8QZFf7c9ALk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Sep 2025 18:13:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4015,7 +4152,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fr7q2aak1r"
+          "Value": "uw4fqhct7f"
         },
         {
           "Name": "label",
@@ -4023,13 +4160,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM="
+          "Value": "sha256-YvtQDi930NCkljFIKEvzXoCmWedj7do/8QZFf7c9ALk="
         }
       ]
     },
     {
-      "Route": "js/site.fr7q2aak1r.js.gz",
-      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-fr7q2aak1r.gz",
+      "Route": "js/site.uw4fqhct7f.js.gz",
+      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-uw4fqhct7f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4038,7 +4175,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "185"
+          "Value": "641"
         },
         {
           "Name": "Content-Type",
@@ -4046,11 +4183,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"inFTEOE9MyZMh8t2Nyi+Unmmop20gkBlmKNZrCHY4qY=\""
+          "Value": "\"MgbTT4QslMDR2dryiS0rJO0Yp4W2pzJJa8k4ilyFju4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 02 Sep 2025 18:18:18 GMT"
+          "Value": "Tue, 09 Sep 2025 18:13:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4068,7 +4205,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fr7q2aak1r"
+          "Value": "uw4fqhct7f"
         },
         {
           "Name": "label",
@@ -4076,144 +4213,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-inFTEOE9MyZMh8t2Nyi+Unmmop20gkBlmKNZrCHY4qY="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-fr7q2aak1r.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.005376344086"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "185"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"inFTEOE9MyZMh8t2Nyi+Unmmop20gkBlmKNZrCHY4qY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 02 Sep 2025 18:18:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "227"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 02 Sep 2025 18:18:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y/Ngd8W21UpuCUhEqGbUKDEqFnNfTjAfb24GhJJGUyM="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Users\\Igu\\Downloads\\FreteJa-master\\FreteJa-master\\obj\\Debug\\net9.0\\compressed\\w1izgoucii-fr7q2aak1r.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "185"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"inFTEOE9MyZMh8t2Nyi+Unmmop20gkBlmKNZrCHY4qY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 02 Sep 2025 18:18:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-inFTEOE9MyZMh8t2Nyi+Unmmop20gkBlmKNZrCHY4qY="
+          "Value": "sha256-MgbTT4QslMDR2dryiS0rJO0Yp4W2pzJJa8k4ilyFju4="
         }
       ]
     },

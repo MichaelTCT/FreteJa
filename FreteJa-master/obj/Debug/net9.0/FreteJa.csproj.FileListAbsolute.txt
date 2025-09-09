@@ -19,7 +19,6 @@ C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\scopedcss\
 C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\scopedcss\projectbundle\FreteJa.bundle.scp.css
 C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\compressed\iwb97400bv-lugek5hnai.gz
 C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\compressed\g1tljee4rl-61n19gt1b8.gz
-C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\compressed\w1izgoucii-fr7q2aak1r.gz
 C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\compressed\1k4bvu6p52-bqjiyaj88i.gz
 C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\compressed\swoexgzq60-c2jlpeoesf.gz
 C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\compressed\9boqd86gn4-erw9l3u2r3.gz
@@ -95,3 +94,4 @@ C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\refint\Fre
 C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\FreteJa.pdb
 C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\FreteJa.genruntimeconfig.cache
 C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\ref\FreteJa.dll
+C:\Users\Igu\Downloads\FreteJa-master\FreteJa-master\obj\Debug\net9.0\compressed\w1izgoucii-uw4fqhct7f.gz
